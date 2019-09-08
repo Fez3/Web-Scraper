@@ -1,5 +1,5 @@
 def binarysearch(min, max):
-
+    #version 2
     if min==max:
         print("The number is "+str(min))
         return exit()
